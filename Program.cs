@@ -1,7 +1,11 @@
-﻿int n = 10;
-double[] a = new double[n];
-for (int  i = 0;  i < n;  i++)
+﻿using System;
+using System.Collections.Generic;
+using System.Drawing;
+using System.Threading.Tasks;
+
+namespace Lesson
 {
-    a[i] = i + 1;
+    
+
 }
 
